@@ -99,6 +99,7 @@ python main.py
 
 ## 📸 Screenshots
 
+<img width="1113" height="778" alt="Screenshot 2026-02-25 201925" src="https://github.com/user-attachments/assets/b63e15f8-5747-429e-be7f-c3f4d1bc7f96" />
 
 ```
 
