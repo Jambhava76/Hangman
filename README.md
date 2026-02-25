@@ -98,7 +98,10 @@ python main.py
 ---
 
 ## 📸 Screenshots
-
+<img width="1122" height="778" alt="Screenshot 2026-02-25 201740" src="https://github.com/user-attachments/assets/78408ec5-e8a7-4d95-9067-7264046330d4" />
+<img width="1115" height="760" alt="Screenshot 2026-02-25 201817" src="https://github.com/user-attachments/assets/3d07c240-2f58-4ded-83dd-2b6f46bec97d" />
+<img width="1119" height="777" alt="Screenshot 2026-02-25 201842" src="https://github.com/user-attachments/assets/35d0cdc7-21ac-4e74-afd1-2c6f1e11b536" />
+<img width="1113" height="759" alt="Screenshot 2026-02-25 201910" src="https://github.com/user-attachments/assets/9fffba99-4540-47bf-94ad-53b337b6fb8b" />
 <img width="1113" height="778" alt="Screenshot 2026-02-25 201925" src="https://github.com/user-attachments/assets/b63e15f8-5747-429e-be7f-c3f4d1bc7f96" />
 
 ```
